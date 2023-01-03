@@ -1,0 +1,60 @@
+body{
+
+    
+    background-image:url('https://wallpaperset.com/w/full/a/1/1/171244.jpg');
+    font-family:'Robonto',sans-serif;
+    text-align: center;
+    text-shadow: 0 .05rem .1rem rgba(0,0,0,.5) ;
+    background-size:cover;
+ 
+}
+h1
+{
+margin:0;
+text-align: center;
+color:red ;
+font-size:100px;
+line-height:100px;
+font-weight: 50;
+
+
+}
+p
+{
+    margin-top: 100px;
+    color: rgb(24, 207, 24);
+    font-size: 40px;
+    line-height:20px;
+}
+b
+{
+    margin-top: 100px;
+    color: rgb(11, 235, 48);
+    font-size: 40px;
+    line-height:20px;
+
+
+}
+
+a{
+
+
+    margin-top: 200px;
+    color: rgb(1, 255, 1);
+    font-size: 40px;
+    line-height:20px;
+
+}
+h2{
+
+    margin:0;
+    text-align: center;
+    color:blue;
+    font-size:100px;
+    line-height:100px;
+    font-weight: 50;
+    
+    
+
+
+}
