@@ -1,0 +1,52 @@
+body{
+
+    background-image: url('https://cdn.lynda.com/course/2807523/2807523-637286274334243170-16x9.jpg');
+    font-family:'Robonto',sans-serif;
+    text-align: center;
+    text-shadow: 0 .1rem .1rem rgba(0,0,0,.5) ;
+    background-size:cover;
+ 
+}
+h1
+{
+margin:0;
+text-align: center;
+color:yellow ;
+font-size:80px;
+line-height:100px;
+font-weight: 50;
+
+
+}
+p
+{
+    color: rgb(0, 255, 0);
+    font-size: 40px;
+    line-height:150px;
+}
+
+button
+{
+    text-align:right;
+line-height:1.1;
+font-size:25px;
+border-radius:20px;
+color:black;
+}
+
+.form
+{
+   
+    line-height:0.1;
+    border-bottom:10px  black;
+    font-size:0px;
+    color:black;
+    border-radius:10px;
+    background:transparent;
+    
+}
+::-webkit-input-placeholder
+{
+    color:black;
+
+}
